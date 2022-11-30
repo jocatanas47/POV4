@@ -34,3 +34,5 @@ x1 = -2:0.1:10;
 x2 = -(v0 + V1*x1)/V2;
 figure(1);
 plot(x1, x2, 'r--', 'LineWidth', 1.4);
+
+% kvadratni klasifikator metodom zeljenog izlaza
